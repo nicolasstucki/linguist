@@ -1,7 +1,7 @@
 ---
 type: grammar
 name: vscode-scala-syntax
-version: 1ed018272080856f356afb4cff29b1236df7e041
+version: 6c006cd355a03804a546c8c9506269e6f2464b8f
 license: mit
 ---
 MIT License
